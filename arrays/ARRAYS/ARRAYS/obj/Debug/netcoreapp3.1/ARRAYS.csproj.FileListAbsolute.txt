@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\C SHARP\ARRAYS\ARRAYS\bin\Debug\netcoreapp3.1\ARRAYS.exe
+C:\Users\HP\Desktop\C SHARP\ARRAYS\ARRAYS\bin\Debug\netcoreapp3.1\ARRAYS.deps.json
+C:\Users\HP\Desktop\C SHARP\ARRAYS\ARRAYS\bin\Debug\netcoreapp3.1\ARRAYS.runtimeconfig.json
+C:\Users\HP\Desktop\C SHARP\ARRAYS\ARRAYS\bin\Debug\netcoreapp3.1\ARRAYS.runtimeconfig.dev.json
+C:\Users\HP\Desktop\C SHARP\ARRAYS\ARRAYS\bin\Debug\netcoreapp3.1\ARRAYS.dll
+C:\Users\HP\Desktop\C SHARP\ARRAYS\ARRAYS\bin\Debug\netcoreapp3.1\ARRAYS.pdb
+C:\Users\HP\Desktop\C SHARP\ARRAYS\ARRAYS\obj\Debug\netcoreapp3.1\ARRAYS.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C SHARP\ARRAYS\ARRAYS\obj\Debug\netcoreapp3.1\ARRAYS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C SHARP\ARRAYS\ARRAYS\obj\Debug\netcoreapp3.1\ARRAYS.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C SHARP\ARRAYS\ARRAYS\obj\Debug\netcoreapp3.1\ARRAYS.AssemblyInfo.cs
+C:\Users\HP\Desktop\C SHARP\ARRAYS\ARRAYS\obj\Debug\netcoreapp3.1\ARRAYS.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C SHARP\ARRAYS\ARRAYS\obj\Debug\netcoreapp3.1\ARRAYS.dll
+C:\Users\HP\Desktop\C SHARP\ARRAYS\ARRAYS\obj\Debug\netcoreapp3.1\ARRAYS.pdb
+C:\Users\HP\Desktop\C SHARP\ARRAYS\ARRAYS\obj\Debug\netcoreapp3.1\ARRAYS.genruntimeconfig.cache
